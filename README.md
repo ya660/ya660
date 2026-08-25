@@ -50,9 +50,9 @@ I'm Yasaswini Nidamanuri, a fresher passionate about Cloud Computing and DevOps.
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/Yasaswini Nidamanuri)
-- 🐙 GitHub: [github.com/your-handle](https://github.com/ya660)
-- 📧 Email: [your-email@example.com](mailto:nidamanuriyasaswini@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Yasaswini Nidamanuri](https://linkedin.com/in/Yasaswini Nidamanuri)
+- 🐙 GitHub: [github.com/ya660](https://github.com/ya660)
+- 📧 Email: [nidamanuriyasaswini@gmail.com](mailto:nidamanuriyasaswini@gmail.com)
 
 ---
 
