@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[ya660-github-ya660]&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=ya660&color=blue)
 </p>
 
 ---
