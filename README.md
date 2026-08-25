@@ -7,10 +7,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-Yasaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Yasaswini Nidamanuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/[your-github-username]" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-Yasaswini-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-ya660-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -43,16 +43,16 @@ I'm Yasaswini Nidamanuri, a fresher passionate about Cloud Computing and DevOps.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=[your-github-ya660]&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- 🐙 GitHub: [github.com/your-handle](https://github.com/your-handle)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/Yasaswini Nidamanuri)
+- 🐙 GitHub: [github.com/your-handle](https://github.com/ya660)
+- 📧 Email: [your-email@example.com](mailto:nidamanuriyasaswini@gmail.com)
 
 ---
 
